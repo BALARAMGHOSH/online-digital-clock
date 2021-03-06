@@ -6,9 +6,9 @@
 <br>
 Check the clock here : <blockquote class="imgur-embed-pub" lang="en" data-id="a/A2ocT6D"  ><a href="https://online-digital-clock.netlify.app/">Online digital clock demo</a></blockquote>
 
-Normally clock is seen like that:
+### Normally clock is seen like that:
 ![Imgur Image](https://i.imgur.com/m8pEGYs.png)
-When hover on this clock it is seen like that:
+### When hover on this clock it is seen like that:
 ![Imgur Image](https://i.imgur.com/Orf1odI.png)
 
 <h3 align="left">Support:</h3>
